@@ -52,16 +52,15 @@ Je suis actuellement **étudiant en Génie Logiciel** chez **ALX**, passionné p
   
 </div>
 
-## 🏆 Projets Phares
+## 🎨 Domaines d'Expertise
 
-### 🔐 [SGMS-LARAVEL](https://github.com/lahssiki/SGMS-LARAVEL)
-**Security Guard Management System** - Application web complète pour la gestion des agents de sécurité
-- 🎯 Gestion des horaires et affectations
-- 📊 Tableau de bord avec statistiques en temps réel
-- 👥 Gestion multi-utilisateurs avec rôles
-- 🔧 Technologies : Laravel, MySQL, Bootstrap
-
-*Plus de projets à venir...*
+```text
+🔹 Développement Web Full Stack
+🔹 Gestion de Bases de Données
+🔹 System Design & Architecture
+🔹 DevOps & Automation
+🔹 Problem Solving & Algorithmes
+```
 
 ## 📫 Me Contacter
 
@@ -89,18 +88,13 @@ Je suis actuellement **étudiant en Génie Logiciel** chez **ALX**, passionné p
 - **🤝 Collaboration** : Les meilleurs projets se font en équipe
 - **💡 Problem Solving** : Transformer les défis en opportunités
 
-## 📈 Activité Récente
+## 📈 Activité GitHub
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-## 🎯 Objectifs 2025
-
-- [ ] Maîtriser React et Vue.js
-- [ ] Contribuer à 10+ projets Open Source
-- [ ] Apprendre Docker & Kubernetes
-- [ ] Obtenir une certification AWS
-- [ ] Créer un blog technique
+<div align="center">
+  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lahssiki&theme=tokyo-night&hide_border=true)
+  
+</div>
 
 ---
 
